@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Lion extends Prey{
+public class Dog extends Pets{
     
     @Override
     public void Color(){
-        System.out.println("is the King of the Jungle");
+        System.out.println("is a Brown dog.]");
     }
 }
